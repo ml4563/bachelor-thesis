@@ -1,0 +1,10 @@
+django==5.0.7
+openai==1.37.0
+djangorestframework==3.15.2
+pandas==2.2.2
+pyyaml==6.0.1
+spacy-lefff==0.5.1
+django-cors-headers==4.4.0
+python-decouple==3.8
+unidecode==1.3.8
+gunicorn==20.1.0

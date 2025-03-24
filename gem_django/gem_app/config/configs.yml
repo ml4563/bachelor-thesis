@@ -1,0 +1,13 @@
+path_output_csv_file: gem_app/csv/output/
+dictionaries_files:
+  - gem_app/dictionaries/agence.txt
+  - gem_app/dictionaries/en lien avec une affaire.txt
+  - gem_app/dictionaries/mention_feminicide.txt
+  - gem_app/dictionaries/sante mentale.txt
+  - gem_app/dictionaries/vocabulaire_violence.txt
+  - gem_app/dictionaries/vocabulaire_minimisant.txt
+  - gem_app/dictionaries/substance psychotrope.txt
+  - gem_app/dictionaries/animalisant.txt
+  - gem_app/dictionaries/sideration.txt
+  - gem_app/dictionaries/culture du viol.txt
+  - gem_app/dictionaries/verb_conditional.txt
