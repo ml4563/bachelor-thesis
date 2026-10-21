@@ -10,7 +10,7 @@ Ce projet vise à développer une **application web** permettant de **détecter 
 
 En combinant **intelligence artificielle (IA)** et **traitement du langage naturel (NLP)**, cet outil analyse la **couverture médiatique des violences sexistes** et en évalue la qualité selon des critères établis par l’institut **décadréE**.  
 
-📄 [**Accès au document complet**](https://folia.unifr.ch/global/documents/329887) *(disponible uniquement en français)*  
+📄 [**Accès au document complet**](https://sonar.rero.ch/hesso/documents/329887) *(disponible uniquement en français)*  
 
 ## 🛠 Technologies utilisées  
 - **Langages** : Python, Dart  
@@ -32,7 +32,7 @@ This project aims to develop a **web application** that **automatically detects 
 
 By combining **artificial intelligence (AI)** and **natural language processing (NLP)**, this tool analyzes the **media coverage of gender-based violence** and evaluates its quality based on criteria established by the **décadréE institute**.  
 
-📄 [**Access the full document**](https://folia.unifr.ch/global/documents/329887) *(available only in French)*  
+📄 [**Access the full document**](https://sonar.rero.ch/hesso/documents/329887) *(available only in French)*  
 
 ## 🛠 Technologies Used  
 - **Languages** : Python, Dart  
